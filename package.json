@@ -1,0 +1,16 @@
+{
+  "name": "run-job",
+  "version": "0.0.3",
+  "description": "",
+  "bin": "run-job.js",
+  "main": "job-runner.js",
+  "scripts": {
+    "test": "echo 'test'"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "log4js": "~0.6.6",
+    "rc": "~0.3.0"
+  }
+}
