@@ -1,13 +1,10 @@
 {
   "name": "run-job",
-  "version": "0.0.3",
-  "description": "",
+  "version": "0.0.4",
+  "description": "Tool for running pulsar jobs from command line",
   "bin": "run-job.js",
-  "main": "job-runner.js",
-  "scripts": {
-    "test": "echo 'test'"
-  },
-  "author": "",
+  "main": "run-job.js",
+  "author": "Roman Grudzinski",
   "license": "MIT",
   "dependencies": {
     "log4js": "~0.6.6",
